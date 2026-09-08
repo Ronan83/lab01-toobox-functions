@@ -2,6 +2,19 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Team Member
+Xuan Zhu
+
+# Solution
+### Links：
+1. [Pulsing Flower](https://www.shadertoy.com/view/f3t3RN)
+2. [Spinning Flower](https://www.shadertoy.com/view/fXd3RN)
+3. [Starry Night Sunflowers](https://www.shadertoy.com/view/NXtGzN)
+
+### Starry Night Sunflower
+![Lab 1](images/5660%20lab1.gif)
+
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
