@@ -11,7 +11,7 @@ Xuan Zhu
 2. [Spinning Flower](https://www.shadertoy.com/view/fXd3RN)
 3. [Starry Night Sunflowers](https://www.shadertoy.com/view/NXtGzN)
 
-### Starry Night Sunflower
+### 3 Starry Night Sunflower
 ![Lab 1](images/5660%20lab1.gif)
 
 
