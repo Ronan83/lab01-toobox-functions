@@ -14,6 +14,8 @@ Xuan Zhu
 ### 3 Starry Night Sunflower
 ![Lab 1](images/5660%20lab1.gif)
 
+### Version 2
+![Lab 1](images/5660_lab1.gif)
 
 # Setup 
 
