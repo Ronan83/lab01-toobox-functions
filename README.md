@@ -9,12 +9,12 @@ Xuan Zhu
 ### Links：
 1. [Pulsing Flower](https://www.shadertoy.com/view/f3t3RN)
 2. [Spinning Flower](https://www.shadertoy.com/view/fXd3RN)
-3. [Starry Night Sunflowers](https://www.shadertoy.com/view/NXtGzN)
+3. [Gradient flowers](https://www.shadertoy.com/view/fXtGWN)
 
-### 3 Starry Night Sunflower
-![Lab 1](images/5660%20lab1.gif)
+---
 
-### Version 2
+Additional Creative Works (Not Part of the Assignment) :  [Starry Night Sunflowers](https://www.shadertoy.com/view/NXtGzN)
+
 ![Lab 1](images/5660_lab1.gif)
 
 # Setup 
